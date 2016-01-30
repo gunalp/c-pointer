@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1454158847 source:c:\users\alp\documents\github\c-pointer\c-pointer\main.c
+	<stdio.h>
+	<stdlib.h>
+
